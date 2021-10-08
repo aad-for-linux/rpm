@@ -7,7 +7,7 @@ Summary:        Bundles pam_aad, libnss_aad and dependencies
 
 Group:          System Environment/Base
 License:        GPLv3+
-URL:            https://github.com/CyberNinjas
+URL:            https://github.com/aad-for-linux
 Source0:        aad-auth-0.0.1.tar.gz
 
 BuildArch: x86_64
