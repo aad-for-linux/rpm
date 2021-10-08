@@ -1,4 +1,4 @@
-# rpm
+# aad-for-linux rpm packages
 
 ## Reference
 
