@@ -1,4 +1,4 @@
-# aad-for-linux rpm packages
+# Azure Active Directory For Linux RPM Packages
 
 ## Reference
 
